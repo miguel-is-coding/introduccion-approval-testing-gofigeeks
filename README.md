@@ -15,4 +15,6 @@ Recursos de la charla Refactoriza con confianza: Introducción al Approval Testi
 - [Approval Testing Koan for practice](https://github.com/approvals/ApprovalTests.java.Koans)
 - [Supermarket receipt kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata)
 - [Gilded Rose Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-
+## Librerías
+- [Approval Testing](https://approvaltests.com/)
+- [Appraise para Visual Approval Testing](https://github.com/AppraiseQA/appraise)
